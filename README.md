@@ -8,6 +8,7 @@
 | Jatindar Pal Singh | 9083762 |
 | Cemil Caglar Yapici | 9081058 |
 
+
 ## Project Overview
 his project performs binary text classification on the IMDB Movie Review Dataset from Stanford.
 The goal is to classify movie reviews as positive or negative, using:
