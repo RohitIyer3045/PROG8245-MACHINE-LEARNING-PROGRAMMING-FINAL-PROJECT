@@ -5,7 +5,7 @@
 | Name | Student ID |
 |------|------------|
 | Rohit Iyer | 8993045 |
-| Jatindar Pal Singh |  |
+| Jatindar Pal Singh | 9083762 |
 | Cemil Caglar Yapici | 9081058 |
 
 ## Project Overview
